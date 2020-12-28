@@ -1,0 +1,53 @@
+.postimg img{
+    width: 100%;
+    height: 626px;
+    margin-top: 14px;
+}
+.postimg{
+    height: 400px;
+    overflow: hidden;
+}
+.post{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.blog-post-content{
+    text-align: center;
+}
+.blog-post-content h1{
+    font-family: 'Langar', cursive;
+    font-size: 60px;
+}
+.blog-post-content p{
+    font-size: 20px;
+}
+.row{
+    display: flex;
+    background-color: #faf8f6;
+}
+.home-article{
+    flex-direction: column;
+    align-items: center;
+}
+.more-post{
+    text-align: center;
+}
+.blogpost-meta{
+    display: flex;
+    justify-content: space-between;
+}
+.author-info{
+    margin: 12px 0;
+}
+.author-info div{
+    padding: 4px 12px;
+    text-align: initial;
+    font-family: var(--font2);
+}
+.bo{
+    fill: rgba(117, 117, 117, 1);
+}
+.social{
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+}
