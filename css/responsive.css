@@ -26,10 +26,10 @@
     align-items: center;
     text-align: center;
   }
-  .home-articles{
+  .home-articles {
     text-align: center;
   }
-  .year-box{
+  .year-box {
     width: auto;
     right: 0;
     top: 0;
@@ -37,25 +37,25 @@
     flex-direction: row;
     height: auto;
   }
-  .year-box div{
+  .year-box div {
     display: flex;
     margin: 10px 10px;
   }
-  .nav-right form{
+  .nav-right form {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  .nav-right form input{
-      margin: 0;
+  .nav-right form input {
+    margin: 0;
   }
-  .footer{
-      text-align: center;
+  .footer {
+    text-align: center;
   }
-  .row{
+  .row {
     flex-direction: column;
   }
-  .blog-post-content{
-      max-width: 85vw;
+  .blog-post-content {
+    max-width: 85vw;
   }
 }
